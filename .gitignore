@@ -1,2 +1,6 @@
 .ipynb_checkpoints/Untitled-checkpoint.ipynb
 .ipynb_checkpoints/codeStage-checkpoint.ipynb
+.DS_Store
+*.csv
+*.xlsx
+.gitignore
